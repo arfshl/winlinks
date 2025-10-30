@@ -6,6 +6,8 @@ https://www.microsoft.com/en-us/software-download/
 Office 365 Basic:
 https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365AppsBasicRetail&platform=x64&language=en-us&version=O16GA
 
+Office 365 Home Premium 
+https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365HomePremRetail.img
 
 Office Home and Students 2024
 https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/Home2024Retail.img
